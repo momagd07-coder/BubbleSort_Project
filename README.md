@@ -34,11 +34,16 @@ g++ -o bubble_sort main.cpp
 تشغيل البرنامج:
 ./bubble_sort          # على Linux أو Mac
 bubble_sort.exe        # على Windows
+
+
 📊 مثال على الإخراج | Example Output
 How many numbers in the array: 5
+
 Enter the numbers to sort: 4 1 5 2 3
 
 Sorted array: {1} {2} {3} {4} {5}
+
+
 📝 ملاحظات | Notes
 البرنامج يستخدم vector<int> للمصفوفات الديناميكية
 الترتيب يتم باستخدام خوارزمية Bubble Sort الكلاسيكية
